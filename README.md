@@ -1,2 +1,2 @@
 # weathernearme
-<h2>Javascript project main</h2>
+<h2>Javascript project </h2>
